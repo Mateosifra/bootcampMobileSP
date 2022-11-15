@@ -39,7 +39,7 @@ public class StringMethod {
                 }
             }
         }
-        System.out.println("\nAsc or Desc");
+        System.out.println("\nAsc or Desc ");
         sc1 = sc.next();
         while ((!sc1.equals("Asc")) && (!sc1.equals("Desc"))) {
             System.out.println("Type a valid input");
